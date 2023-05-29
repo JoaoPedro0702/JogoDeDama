@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\bin\Debug\net7.0\dama-C#.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\bin\Debug\net7.0\dama-C#.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\bin\Debug\net7.0\dama-C#.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\bin\Debug\net7.0\dama-C#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\bin\Debug\net7.0\dama-C#.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.csproj.AssemblyReference.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\refint\dama-C#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\dama-C#.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\dama-C#\obj\Debug\net7.0\ref\dama-C#.dll
